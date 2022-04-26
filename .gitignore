@@ -1,5 +1,7 @@
 .vscode
 
-**ake**
+CMakeLists.txt
+
+/build
 
 /out
